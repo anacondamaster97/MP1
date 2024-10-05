@@ -1,5 +1,4 @@
 # Gossip Membership Protocol with Heartbeating
-## Overview
 This project implements a Gossip Membership Protocol using heartbeating to manage membership in a distributed system. The protocol ensures that all nodes in the system are aware of each other’s presence by propagating membership information through a gossip mechanism. It's designed to handle node joins, failures, and departures in a scalable and fault-tolerant way.
 
 ## Background
